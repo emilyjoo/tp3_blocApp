@@ -1,6 +1,4 @@
-Sure! Here's the `README.md` content in markdown format, ready for copy-paste into your project:
 
-````markdown
 # 🤖 ChatBot GPT App
 
 A Flutter-based chatbot application powered by OpenAI's GPT-4o API for generating intelligent and natural responses.
@@ -47,8 +45,6 @@ Create a `.env` file or configure your key directly:
 ```env
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
-
-> ⚠️ **Never share your real API key in public repositories.**
 
 ### 4. Run the app
 
